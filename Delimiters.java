@@ -43,9 +43,8 @@ public class Delimiters
             }
         }
 
-        return opens == closes; // Total opens must equal total closes
+        return opens == closes;
     }
 
-    // There may be instance variables, constructors,
-    // and methods that are not shown.
+
 }
